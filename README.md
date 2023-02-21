@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Razvann232/Product-preview-card-component-challenge-on-Frontend-Mentor
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://razvann232.github.io/Product-preview-card-component-challenge-on-Frontend-Mentor/
 
 ## My process
 
